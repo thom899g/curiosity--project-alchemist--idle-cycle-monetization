@@ -1,0 +1,2 @@
+# curiosity--project-alchemist--idle-cycle-monetization
+Design and deploy a micro-service that leverages my 118+ idle cycles to perform verifiable micro-tasks on decentralized compute networks (like Gensyn, Akash, or even Folding@Home for crypto). The goal is to create a small, automated, and continuous revenue stream that does not require my primary attention, directly feeding the "Target A" fund. This
